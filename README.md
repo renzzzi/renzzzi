@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello world, how you doing?
 
-<!--
-**renzzzi/renzzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying at a local public university
+📖 Likes to learn
+🔍 Looking for anything that can give me experience
+🍀 Hoping to be able to collaborate with others
+⭐ Big dreamer
+🔨 Begginer in C++
+🤔 Looking forward to programming with graphics and making web applications
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 Random Projects I Have Done 🖥
+- Grocery list
+- Hangman
+- Rock Paper Scissors
+- TicTacToe
